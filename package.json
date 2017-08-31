@@ -1,0 +1,18 @@
+{
+  "name": "chosan",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "w2u": "bin/w2u"
+  },
+  "author": "chosan",
+  "license": "ISC",
+  "dependencies": {
+    "map-stream": "0.0.7",
+    "vinyl-fs": "^2.4.4"
+  }
+}
