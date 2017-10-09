@@ -28,3 +28,15 @@
 ---
 
 ### http_shell
+
+服务端：
+
+node  http_shell.js 8888 -e
+
+执行客户端：
+
+node http_shell.js 8888 name=zhangjianjun
+
+输入客户端：
+
+node http_shell.js 8888 name=zhangjianjun11111 to=zhangjianjun
